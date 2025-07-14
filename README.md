@@ -41,11 +41,13 @@ Manajemen banner iklan
 
 ## 📸 Screenshot Tampilan
 
-![Screenshot 1](https://github.com/user-attachments/assets/ab8d719e-8958-4078-8fbe-160c559e1a2f)
+- Halaman Berita
 
 ![Screenshot 2](https://github.com/user-attachments/assets/252828ec-dd6e-4f13-9abe-06f1abbe6f9a)
 
 ![Screenshot 3](https://github.com/user-attachments/assets/fb894b79-5dd7-478d-9f8a-3056642fd4ed)
+
+- Halaman Admin
 
 ![Screenshot 4](https://github.com/user-attachments/assets/ce280d0f-9522-48b4-9e3e-d68802ecd866)
 
