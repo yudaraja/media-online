@@ -153,7 +153,7 @@
     <!-- Slick Slider -->
     <script src="/media-online/plugins/slick-carousel/slick.min.js"></script>
     <!-- Google Map -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script> -->
     <script src="/media-online/plugins/google-map/gmap.js"></script>
     <!-- main js -->
     <script src="/media-online/js/custom.js"></script>
